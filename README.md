@@ -26,7 +26,7 @@ Follow the steps below to download music:
 3. Save the text file and close it.
 4. When running the Musify program, provide the full path to the text file containing the links.
 
-Or, if using the `musify.bat` file:
+Or, if using Windows OS, you can use `musify.bat` file:
 - Double-click the `musify.bat` file and follow the instructions provided by the program to specify the path to the text file.
 
 Musify will download the YouTube songs based on the provided links and save them to a specific directory.
